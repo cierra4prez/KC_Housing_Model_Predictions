@@ -35,8 +35,6 @@
 </ul></li>
 </ul>
 
-<h2 id="toc_4">Exploratory Data Analysis</h2>
-
 <ul>
 <li>Reign in outliers for variables with sqft</li>
 <li>Inspect extreme outliers:
